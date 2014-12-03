@@ -1,0 +1,39 @@
+<%
+function getChartData() {
+
+	var labelNumber =0;
+	var postLabelAll =0;
+		if(	request.getMethod() =="POST"){
+			 labelNumber =request.getContent();
+			 var postLabelAll =labelNumber;
+		}
+
+   		var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   		var querylables = JSON.parse('{"SQL Statement" : "SELECT DISTINCT labels FROM EmailMainTable "}');
+     
+      	var dbHandler = require('/rdbms-handler.js');
+      	var dbLabelsResult = dbHandler.getData(connectionData,querylables);
+      	var today = new Date();
+      	var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+     
+	if (postLabelAll==0) {
+      	var queryData = JSON.parse('{"SQL Statement" : " select sender, mailcount from (select * from IndividualMailCount where DATEDIFF(\''+date+'\',DateCurrent) <=7 order by  mailcount desc limit 5)  t order by mailcount"}');
+	}else{
+		var queryData = JSON.parse('{"SQL Statement" : " select sender, mailcount from (select * from IndividualMailCount where groupName like \''+dbLabelsResult[labelNumber]["labels"] +'\' AND DATEDIFF(\''+date+'\',DateCurrent) <=7 order by  mailcount desc limit 5)  t order by mailcount"}');
+	}
+	
+		var dataColumns = JSON.parse('["Y-Axis", "X-Axis"]');
+   		var mapping = JSON.parse('[{"Series Label" : "Mails", "Y-Axis" : "sender", "X-Axis" : "mailcount"}]');
+   		var timeSeries = JSON.parse('false');
+   		var dataLabels = JSON.parse('{"Y-Axis Label" : "Top Rankers", "X-Axis Label" : "No. Mails"}');
+   
+   		var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   		var dataProcessor = require('/horizontal-bar-chart.js'); 
+   		var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,dbLabelsResult); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

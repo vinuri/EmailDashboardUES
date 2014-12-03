@@ -1,0 +1,24 @@
+<%
+var data1 = [];
+totalPoints = 10;
+
+function getRandomData() {
+
+    if (data1.length > 0)
+        data1 = data1.slice(1);
+
+    while (data1.length < totalPoints) {
+        for (var i = 0; i <= 10; ++i) {
+            var x1 = Math.random()*100;
+            data1.push([i,x1]);
+        }
+    }
+
+    return [
+        {"series1":{label: "rND", data: data1}}
+    ];
+
+}
+print(getRandomData());
+
+%>

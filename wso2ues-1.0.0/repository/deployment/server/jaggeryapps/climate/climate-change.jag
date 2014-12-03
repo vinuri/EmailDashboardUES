@@ -1,0 +1,67 @@
+<%
+var scripts = [];
+var styles = [];
+var process = require('process');
+var url = 'http://' + process.getProperty('server.host') + ':' +process.getProperty('http.port');
+include("includes/header.jag");
+%>
+
+
+			<div class="row">
+				<div class="span12">
+					<h1>Climate Change</h1>
+					
+					 <div id="map_canvas"></div>
+				</div>
+
+			</div>
+
+			
+			<div id="map-tip">
+				<span><i class="icon-map-marker icon-large"></i> Select a Country to begin</span> <i data-dismiss="alert" class="icon-remove close" type="button">
+							</i>
+					
+			</div>
+			
+			<div id="sticky-anchor"></div>
+			<div id="sticky" class="row">
+				<div class="span12">
+					<div id="timeslider">
+						<div class="layout-slider">
+							<input id="Slider1" type="slider" name="area" value="25;75" />
+						</div>
+						<span class="slider-year">Year range</span>
+					</div>
+				</div>
+			</div>
+<div class="climate-gadget-container">
+	<div class="climate-gadget-wrapper climate-gadget-two-col" style="width:50%; float:left;">
+		<h3 class="climate-gadget-title">Agricultural Land</h3>
+		<div id="land-div" class="climate-app-gadget"></div>
+	</div>
+	<div class="climate-gadget-wrapper climate-gadget-two-col" style="width:50%; float:right;">
+		<h3 class="climate-gadget-title">CO2 Gas Emission</h3>
+		<div id="emission-div" class="climate-app-gadget"></div> 
+	</div>
+	<div class="climate-gadget-wrapper" style="clear:both">
+		<h3 class="climate-gadget-title">Energy Use</h3>
+		<div id="energy-div" class="climate-app-gadget"></div>
+	</div>
+	<div class="climate-gadget-wrapper" style="clear:both">
+		<h3 class="climate-gadget-title">Greenhouse gas emission</h3>
+		<div id="gas-div" class="climate-app-gadget"></div>
+	</div>
+</div>
+<script>
+var portalUrl = '<%= url %>' + '/portal/gadgets/';
+UESContainer.renderGadget('land-div', portalUrl + 'agricultural-land/agricultural-land.xml');
+UESContainer.renderGadget('emission-div', portalUrl + 'co2-emission/co2-emission.xml');
+UESContainer.renderGadget('energy-div', portalUrl + 'energy-use/energy-use.xml');
+UESContainer.renderGadget('gas-div', portalUrl + 'greenhouse-gas/greenhouse-gas.xml');
+</script>
+<%
+include("includes/footer.jag");
+%>
+
+
+

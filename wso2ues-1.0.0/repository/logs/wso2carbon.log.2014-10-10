@@ -1,0 +1,1544 @@
+TID: [0] [] [2014-10-10 10:10:47,623]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail_Density].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Mail_Density] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 10:11:02,699]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail_Density] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:11:02,699]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Undeployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail_Density].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Mail_Density] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-10-10 10:11:02,712]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Mail-Density] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 10:38:05,777]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:38:05,777]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:38:05,777]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:38:05,777]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,187]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,188]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,187]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,187]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,188]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,188]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,189]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,187]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,189]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,189]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,188]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,189]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,291]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,291]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  I/O exception (java.net.SocketException) caught when processing request: Connection reset {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,292]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:44:48,292]  INFO {org.apache.http.impl.client.DefaultHttpClient} -  Retrying request {org.apache.http.impl.client.DefaultHttpClient}
+TID: [0] [] [2014-10-10 10:48:32,961]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:32,962]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:32,966]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,212]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,212]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,219]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,219]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,245]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,250]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,256]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-interactive-NON-WSO2-individuals] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,260]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,264]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,269]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,273]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,277]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,305]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,311]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,315]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,320]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IDLE-MAILS] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,325]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IdleMails] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,331]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,334]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,337]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,340]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,344]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-Groups] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,346]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestSite] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 10:48:35,346]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,346]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,357]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 10:48:35,357]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:35,357]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 10:48:35,357]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 10:48:35,359]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:35,390]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:35,396]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [] [2014-10-10 10:48:35,581]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 10:48:35,581]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:05:48,652]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,655]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Mac OS X 10.9, x86_64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.7.0_07 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 23.3-b01,Oracle Corporation {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:48,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : sithumini, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:05:49,975]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 53ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [] [2014-10-10 11:05:50,056]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [] [2014-10-10 11:05:54,264]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-10-10 11:05:54,264]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-10-10 11:05:54,457]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:05:54,457]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:05:54,631]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:05:54,742]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:05:54,742]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:05:54,959]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:05:54,977]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:05:54,977]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:05:59,402]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-10-10 11:05:59,402]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-10-10 11:05:59,403]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-10-10 11:05:59,403]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-10-10 11:05:59,414]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,651]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ceo-dash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,674]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/climate] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,693]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/gad] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,717]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad2].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/gad2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,737]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IDLE-MAILS].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/IDLE-MAILS] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,757]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IdleMails].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/IdleMails] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,779]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Mail-Density] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:00,800]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/markmail] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:01,439]  INFO {portal.deployer} -  Default gadgets deployed {portal.deployer}
+TID: [0] [] [2014-10-10 11:06:01,606]  INFO {portal.site.deployer} -  Default sites deployed {portal.site.deployer}
+TID: [0] [] [2014-10-10 11:06:01,607]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/portal] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:01,906]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,041]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,088]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,128]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDashSite2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,142]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestSite].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestSite] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,157]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,176]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-Groups].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5-Groups] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,189]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-interactive-NON-WSO2-individuals].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5-interactive-NON-WSO2-individuals] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,201]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ws-chat] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:06:02,278]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:06:02,368]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:06:02,427]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-10-10 11:06:02,427]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-10-10 11:06:02,429]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:06:02,429]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:06:03,210]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:06:03,229]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [] [2014-10-10 11:06:03,426]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [] [2014-10-10 11:06:03,426]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [] [2014-10-10 11:06:03,557]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [] [2014-10-10 11:06:03,598]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [] [2014-10-10 11:06:03,598]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 User Engagement Server-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-10-10 11:06:03,599]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 17 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-10-10 11:06:03,747]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.100.5.176:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [] [2014-10-10 11:06:06,455]  INFO {portal.site.deployer} -  UES Portal URL : http://localhost:9763/portal {portal.site.deployer}
+TID: [0] [] [2014-10-10 11:12:34,217]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation_Group_Mails_of_the_week].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Vacation_Group_Mails_of_the_week] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:12:49,294]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation_Group_Mails_of_the_week] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:12:49,294]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Undeployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation_Group_Mails_of_the_week].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Vacation_Group_Mails_of_the_week] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-10-10 11:12:49,305]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation-Group-Mails-of-the-week].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Vacation-Group-Mails-of-the-week] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:16:30,818] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:16:30,819] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:16:35,031] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:16:35,031] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:16:36,834] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:16:36,835] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:16:40,946] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:16:40,947] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:16:46,696] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:16:46,696] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:17:12,782]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:12,782]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:12,784]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,051]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,051]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,053]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,053]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,070]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,073]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,077]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,083]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-interactive-NON-WSO2-individuals] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,087]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,091]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,106]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,110]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,114]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,127]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,130]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation-Group-Mails-of-the-week] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,133]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,137]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IDLE-MAILS] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,141]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IdleMails] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,145]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,149]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,153]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,156]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,160]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-Groups] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,162]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestSite] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:17:15,162]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,162]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,174]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Writing logs  {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [] [2014-10-10 11:17:15,175]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:17:15,175]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:15,176]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:15,176]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:15,177]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:15,206]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:15,211]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [] [2014-10-10 11:17:15,394]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:15,394]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:28,269]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,270]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Mac OS X 10.9, x86_64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,270]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,270]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.7.0_07 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,270]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 23.3-b01,Oracle Corporation {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,271]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,271]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:28,271]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : sithumini, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-10-10 11:17:29,412]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 39ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [] [2014-10-10 11:17:29,496]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [] [2014-10-10 11:17:33,349]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-10-10 11:17:33,349]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-10-10 11:17:33,545]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:33,545]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:33,721]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:17:33,843]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:17:33,843]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:17:34,080]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:17:34,096]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:17:34,096]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-10-10 11:17:38,076]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-10-10 11:17:38,076]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-10-10 11:17:38,077]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-10-10 11:17:38,077]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-10-10 11:17:38,086]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,294]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ceo-dash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,315]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/climate] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,334]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/gad] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,354]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad2].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/gad2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,375]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IDLE-MAILS].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/IDLE-MAILS] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,394]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IdleMails].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/IdleMails] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,413]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Mail-Density] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:39,438]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/markmail] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,071]  INFO {portal.deployer} -  Default gadgets deployed {portal.deployer}
+TID: [0] [] [2014-10-10 11:17:40,239]  INFO {portal.site.deployer} -  Default sites deployed {portal.site.deployer}
+TID: [0] [] [2014-10-10 11:17:40,240]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/portal] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,564]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,680]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,720]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,759]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDashSite2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,772]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestSite].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestSite] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,786]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,806]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-Groups].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5-Groups] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,818]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-interactive-NON-WSO2-individuals].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Top-5-interactive-NON-WSO2-individuals] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,831]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation-Group-Mails-of-the-week].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/Vacation-Group-Mails-of-the-week] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,845]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat].File[/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ws-chat] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-10-10 11:17:40,918]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:17:40,983]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-10-10 11:17:41,027]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-10-10 11:17:41,027]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-10-10 11:17:41,030]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:41,030]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:17:41,790]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /Users/sithumini/wso2works/programs/wso2ues/ues-1/wso2ues-1.0.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:17:41,808]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [] [2014-10-10 11:17:41,989]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [] [2014-10-10 11:17:41,989]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [] [2014-10-10 11:17:42,112]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [] [2014-10-10 11:17:42,149]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [] [2014-10-10 11:17:42,149]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 User Engagement Server-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-10-10 11:17:42,150]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 15 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-10-10 11:17:42,290]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.100.5.176:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [] [2014-10-10 11:17:45,086]  INFO {portal.site.deployer} -  UES Portal URL : http://localhost:9763/portal {portal.site.deployer}
+TID: [0] [] [2014-10-10 11:18:50,653] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:18:50,654] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:18:58,544] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:18:58,544] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:00,119] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:00,119] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:01,787] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:01,788] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:06,640] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:06,640] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:42,494] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:42,494] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:44,992] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:44,992] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:46,718] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:46,718] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:19:50,187] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:19:50,187] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:25,920] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:25,920] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:27,536] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:27,536] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:29,219] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:29,219] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:31,473] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:31,473] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:32,953] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:32,953] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:21:36,434] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:21:36,434] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:23:01,639] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  Requested resource /rdbms-handler.js cannot be found {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+TID: [0] [] [2014-10-10 11:23:01,640] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.WrappedException: Wrapped org.jaggeryjs.scriptengine.exceptions.ScriptException: Requested resource /rdbms-handler.js cannot be found (/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag#11) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:23:01,640] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.WrappedException: Wrapped org.jaggeryjs.scriptengine.exceptions.ScriptException: Requested resource /rdbms-handler.js cannot be found (/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag#11) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.WrappedException: Wrapped org.jaggeryjs.scriptengine.exceptions.ScriptException: Requested resource /rdbms-handler.js cannot be found (/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag#11)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.WrappedException: Wrapped org.jaggeryjs.scriptengine.exceptions.ScriptException: Requested resource /rdbms-handler.js cannot be found (/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag#11)
+	at org.mozilla.javascript.Context.throwAsScriptRuntimeEx(Context.java:1754)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:148)
+	at org.mozilla.javascript.FunctionObject.call(FunctionObject.java:386)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag:11)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0.call(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0._c_script_0(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag:20)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0.call(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0.call(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag)
+	at org.jaggeryjs.rhino.TestSite.gadets.Vacation_Group_Mails_of_the_week.c0.exec(/TestSite/gadets/Vacation-Group-Mails-of-the-week/data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+Caused by: org.jaggeryjs.scriptengine.exceptions.ScriptException: Requested resource /rdbms-handler.js cannot be found
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.getScriptLastModified(WebAppManager.java:598)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.executeScript(WebAppManager.java:260)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.require(WebAppManager.java:316)
+	at sun.reflect.GeneratedMethodAccessor39.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	... 43 more
+TID: [0] [] [2014-10-10 11:32:28,077] ERROR {org.jaggeryjs.scriptengine.engine.RhinoEngine} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.scriptengine.engine.RhinoEngine}
+TID: [0] [] [2014-10-10 11:32:28,078] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:582)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot call method "close" of undefined (/Vacation-Group-Mails-of-the-week//rdbms-handler.js#53)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3731)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2258)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1._c_getData_3(/Vacation-Group-Mails-of-the-week//rdbms-handler.js:53)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c1.call(/Vacation-Group-Mails-of-the-week//rdbms-handler.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_getChartData_1(/Vacation-Group-Mails-of-the-week//data-api.jag:12)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0._c_script_0(/Vacation-Group-Mails-of-the-week//data-api.jag:20)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.call(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.rhino.Vacation_Group_Mails_of_the_week.c0.exec(/Vacation-Group-Mails-of-the-week//data-api.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	... 31 more
+TID: [0] [] [2014-10-10 11:33:35,056]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:35,057]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:35,059]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,294]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,294]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,296]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,297]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,316]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,320]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,326]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-interactive-NON-WSO2-individuals] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,330]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,334]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/gad2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,338]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,354]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,358]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,363]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,374]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,378]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Vacation-Group-Mails-of-the-week] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,383]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,386]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IDLE-MAILS] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,389]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/IdleMails] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,392]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Mail-Density] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,395]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,397]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,400]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,403]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Top-5-Groups] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,407]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestSite] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-10-10 11:33:37,408]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,408]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,422]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-10-10 11:33:37,422]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:37,423]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:33:37,423]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-10-10 11:33:37,424]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:37,449]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:37,454]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [] [2014-10-10 11:33:37,638]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-10-10 11:33:37,638]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}

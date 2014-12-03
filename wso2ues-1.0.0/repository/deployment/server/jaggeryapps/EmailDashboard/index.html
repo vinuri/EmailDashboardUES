@@ -1,0 +1,110 @@
+<html lang="en">
+<head>
+	<script src="/portal/themes/portal/js/shindig.js"></script>
+	<script src="/EmailDashboard/UESContainer.js"></script>
+	
+    <style type="text/css">
+        #gadget-1, #gadget-2, #gadget-3, #gadget-4 , #gadget-5 , #gadget-6 , #gadget-7 , #gadget-8  {
+			top:0;margin-top: 0;
+        }
+		
+		#con {
+			border: 2px solid #DADADA;
+			float: left;
+			height: 430px;
+			padding: 10px 10px;
+			width: 23%;
+			box-shadow: 5px 5px 5px #888888;
+			/**border: 2px solid #888888;**/
+    		border-radius: 10px;
+			margin-left: auto;
+    		margin-right: auto;
+			margin:3px;
+		}
+		#head{
+			
+			left: 0;
+    		margin-bottom: 0;
+    		right: 0;
+			top:0;
+			height: 50px;
+			width: 100%;
+			background-color:#1F2739;
+		}
+		
+		#wrap { 
+			height: auto; width: auto;
+			margin-left: 25px;
+    		margin-right: 0 auto;
+			position: relative;
+			border:2px;		
+		}
+		
+    </style>
+</head>
+<body>
+	<div id="head"></div>
+	<div id="wrap">
+		<div>
+				<div id="con">
+					<div id="heading" align="center"><h3>Most Interactive Non WSO2 Individuals</h3></div>
+					<div id="gadget-1"></div>
+				</div>
+				<div id="con">
+					<div id="heading" align="center"><h3>WSO2 Idle Mails</h3></div>	
+					<div id="gadget-2"></div>
+				</div>
+				<div id="con">
+					<div id="heading" align="center"><h3>Top 5 Groups of the Week</h3></div>	
+					<div id="gadget-3"></div>
+				</div>
+				<div id="con">
+					<div id="heading" align="center"><h3>Top 5 Individuals of the Week</h3></div>	
+					<div id="gadget-4"></div>
+				</div>
+		</div>
+		<div>
+				<div id="con">
+					<div id="heading" align="center"><h3>Mail Density</h3></div>	
+					<div id="gadget-5"></div>
+				</div>
+				<div id="con">
+					<div id="heading" align="center"><h3>Non WSO2 Idle Mails</h3></div>	
+					<div id="gadget-6"></div>
+				</div>
+				<div id="con">
+					<div id="heading" align="center"><h3>No of Vacation Mails per Week</h3></div>	
+					<div id="gadget-7"></div>
+				</div>
+					<div id="con">
+					<div id="heading" align="center"><h3>Mail Thread Count for the Week</h3></div>	
+					<div id="gadget-8"></div>
+				</div>
+			</div>
+		</div>
+<!-- Embedding gadget via url -->
+	
+<script>
+    //Top 5 individual gadget
+	UESContainer.renderGadget('gadget-1', 'https://localhost:9443/EmailDashboard/gadets/Top-5-individuals-NON-WSO2/public/horizontal-bar-chart/horizontal-bar-chart.xml','','','88');
+	
+	//WSO2 idle mails gadget
+	UESContainer.renderGadget('gadget-2', 'https://localhost:9443/EmailDashboard/gadets/WSO2-IDLE-MAILS/public/pie-chart/pie-chart.xml','','','88');
+	//Top groups gadget
+	UESContainer.renderGadget('gadget-3', 'https://localhost:9443/EmailDashboard/gadets/TOP-GROUPS-WEEK/public/pie-chart/pie-chart.xml','','','88');
+	//Most interactive users gadget
+	UESContainer.renderGadget('gadget-4', 'https://localhost:9443/EmailDashboard/gadets/Most-intractive-users/public/horizontal-bar-chart/horizontal-bar-chart.xml','','','85');
+    
+	//Mail density gadget
+	UESContainer.renderGadget('gadget-5', 'https://localhost:9443/EmailDashboard/gadets/Mail-Density-Week/public/line-chart/line-chart.xml','','','85');
+	//Non WSO2 idle mails gadget
+	UESContainer.renderGadget('gadget-6', 'https://localhost:9443/EmailDashboard/gadets/NON-WSO2-IDLE-MAILS/public/pie-chart/pie-chart.xml','','','88');
+	//Mail thread (no of replies) count gadget
+	UESContainer.renderGadget('gadget-8', 'https://localhost:9443/EmailDashboard/gadets/Mail-Thread/public/horizontal-bar-chart/horizontal-bar-chart.xml','','','88');
+	//Vacation group mail density gadget
+	UESContainer.renderGadget('gadget-7', 'https://localhost:9443/EmailDashboard/gadets/Vacation-Group-Mails/public/stacked-bar-chart/stacked-bar-chart.xml','','','88');
+	
+	</script>
+	
+</body>
+</html>

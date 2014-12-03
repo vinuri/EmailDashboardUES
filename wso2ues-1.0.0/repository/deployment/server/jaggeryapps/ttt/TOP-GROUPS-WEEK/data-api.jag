@@ -1,0 +1,79 @@
+<%
+/*
+ * Copyright (c) 2005-2014, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
+*
+* WSO2 Inc. licenses this file to you under the Apache License,
+* Version 2.0 (the "License"); you may not use this file except
+* in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing,
+* software distributed under the License is distributed on an
+* "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+* KIND, either express or implied. See the License for the
+* specific language governing permissions and limitations
+* under the License.
+*/
+
+function getChartData() {
+	var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+
+	var dbHandler = require('/TOP-GROUPS-WEEK/rdbms-handler.js');
+
+	var today = new Date();
+	var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+
+	var queryLabels = "select groupName , SUM(mailcount) as mail from GroupMailCount"+
+	' where  DATEDIFF(\''+date+'\',DateCurren <=7 group by groupName  order by mail desc limit 5';
+	var queryData = {
+		"SQL Statement" : queryLabels
+	};
+
+	var queryTotal = "select SUM(mail) as mailSum from(select groupName , SUM(mailcount) as mail from  GroupMailCount "+
+	"where  DATEDIFF(\'"+date+"\',DateCurrent) <=7   group by groupName  order by mail desc) t";
+	var queryDataTotal = {
+		"SQL Statement" : queryTotal
+	};
+
+	var queryfirstFive = "select SUM(mail) as mailSum from(select groupName , SUM(mailcount) as mail from  GroupMailCount "
+			+"where  DATEDIFF(\'"+date+"\',DateCurrent) <=7   group by groupName  order by mail desc limit 5) t";
+	var queryDatafirstFive = {
+		"SQL Statement" : queryfirstFive
+	};
+
+	//getting the sum of the mails to the pie chart other option
+	var dbResultDataSumTotal = dbHandler.getData(connectionData,queryDataTotal);
+	var dbResultDataSumfirstFive = dbHandler.getData(connectionData,queryDatafirstFive);
+
+	var dataColumns = JSON.parse('["Data"]');
+	var timeSeries = JSON.parse('false');
+	var dataLabels = JSON.parse('{"Data Label" : "Data"}');
+	var dbResult = dbHandler.getData(connectionData,queryData);
+
+
+	if(dbResult[0] != null && dbResultDataSumfirstFive[0] !=null){
+		var sumOther = dbResultDataSumTotal[0]["mailSum"] - dbResultDataSumfirstFive[0]["mailSum"] ;
+		var strmap=[];
+
+		for (var i = 0; i <dbResult.length; i++) {
+			strmap.push({
+				"Series Label" :dbResult[i]["groupName"], "Data" : "mailcount"});
+		}
+		strmap.push({
+			"Series Label" :"other", "Data" : "total"});
+			var mapping=strmap;
+				
+			var dataProcessor = require('/pie-chart.js');
+			var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,sumOther);
+	}
+	else{
+		var processedData =null;
+	}
+
+	return processedData;
+}
+
+print(getChartData());
+%>

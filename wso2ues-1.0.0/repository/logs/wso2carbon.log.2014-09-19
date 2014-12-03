@@ -1,0 +1,431 @@
+TID: [0] [] [2014-09-19 10:57:40,652]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,655]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Mac OS X 10.9, x86_64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.7.0_07 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 23.3-b01,Oracle Corporation {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /Users/vinurip/wso2/wso2ues-1.0.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /Users/vinurip/wso2/wso2ues-1.0.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:40,656]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : vinurip, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [] [2014-09-19 10:57:42,026]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 54ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [] [2014-09-19 10:57:42,120]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [] [2014-09-19 10:57:46,135]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-09-19 10:57:46,135]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [] [2014-09-19 10:57:46,328]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 10:57:46,328]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 10:57:46,477]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-09-19 10:57:46,595]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-09-19 10:57:46,595]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-09-19 10:57:46,843]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-09-19 10:57:46,862]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-09-19 10:57:46,862]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [] [2014-09-19 10:57:52,513]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-09-19 10:57:52,513]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [] [2014-09-19 10:57:52,514]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-09-19 10:57:52,514]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [] [2014-09-19 10:57:52,525]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:53,739]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ceo-dash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:53,758]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/climate] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:53,778]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/markmail] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:54,387]  INFO {portal.deployer} -  Default gadgets deployed {portal.deployer}
+TID: [0] [] [2014-09-19 10:57:54,585]  INFO {portal.site.deployer} -  Default sites deployed {portal.site.deployer}
+TID: [0] [] [2014-09-19 10:57:54,585]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/portal] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:54,885]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:55,012]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:55,055]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDash] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:55,071]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/ws-chat] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 10:57:55,155]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-09-19 10:57:55,224]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [] [2014-09-19 10:57:55,271]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-09-19 10:57:55,271]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v9 - file:/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/client/modules/addressing-1.6.1-wso2v9.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [] [2014-09-19 10:57:55,274]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 10:57:55,274]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 10:57:56,038]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 10:57:56,056]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [] [2014-09-19 10:57:56,218]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [] [2014-09-19 10:57:56,219]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [] [2014-09-19 10:57:56,369]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [] [2014-09-19 10:57:56,416]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [] [2014-09-19 10:57:56,416]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 User Engagement Server-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-09-19 10:57:56,416]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 18 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [] [2014-09-19 10:57:56,610]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.100.5.174:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [] [2014-09-19 10:57:59,406]  INFO {portal.site.deployer} -  UES Portal URL : http://localhost:9763/portal {portal.site.deployer}
+TID: [0] [] [2014-09-19 10:59:55,709]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDashSite2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 11:00:10,786]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 11:00:10,787]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Undeployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDashSite2] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [] [2014-09-19 11:00:10,836]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2].File[/Users/vinurip/wso2/wso2ues-1.0.0/repository/deployment/server/jaggeryapps/TestDashSite2] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [] [2014-09-19 11:00:30,205]  INFO {JAGGERY.server:jag} -  Client Sent : asdasd {JAGGERY.server:jag}
+TID: [0] [] [2014-09-19 11:00:46,621]  INFO {JAGGERY.server:jag} -  Client Sent : ASas {JAGGERY.server:jag}
+TID: [0] [] [2014-09-19 11:00:53,949]  INFO {JAGGERY.server:jag} -  Client Sent : ASas {JAGGERY.server:jag}
+TID: [0] [] [2014-09-19 14:31:06,862] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error while reading Service Provider configurations {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+java.lang.NullPointerException
+	at java.util.concurrent.ConcurrentHashMap.hash(ConcurrentHashMap.java:332)
+	at java.util.concurrent.ConcurrentHashMap.get(ConcurrentHashMap.java:987)
+	at org.wso2.carbon.identity.sso.saml.SSOServiceProviderConfigManager.getServiceProvider(SSOServiceProviderConfigManager.java:75)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:190)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 14:31:06,864] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error processing the authentication request {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+org.wso2.carbon.identity.base.IdentityException: Error while reading Service Provider configurations
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:209)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 14:31:07,793] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error while reading Service Provider configurations {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+java.lang.NullPointerException
+	at java.util.concurrent.ConcurrentHashMap.hash(ConcurrentHashMap.java:332)
+	at java.util.concurrent.ConcurrentHashMap.get(ConcurrentHashMap.java:987)
+	at org.wso2.carbon.identity.sso.saml.SSOServiceProviderConfigManager.getServiceProvider(SSOServiceProviderConfigManager.java:75)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:190)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 14:31:07,795] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error processing the authentication request {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+org.wso2.carbon.identity.base.IdentityException: Error while reading Service Provider configurations
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:209)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 14:31:11,555] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error while reading Service Provider configurations {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+java.lang.NullPointerException
+	at java.util.concurrent.ConcurrentHashMap.hash(ConcurrentHashMap.java:332)
+	at java.util.concurrent.ConcurrentHashMap.get(ConcurrentHashMap.java:987)
+	at org.wso2.carbon.identity.sso.saml.SSOServiceProviderConfigManager.getServiceProvider(SSOServiceProviderConfigManager.java:75)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:190)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 14:31:11,556] ERROR {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor} -  Error processing the authentication request {org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor}
+org.wso2.carbon.identity.base.IdentityException: Error while reading Service Provider configurations
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.getServiceProviderConfig(AuthnRequestProcessor.java:209)
+	at org.wso2.carbon.identity.sso.saml.processors.AuthnRequestProcessor.process(AuthnRequestProcessor.java:52)
+	at org.wso2.carbon.identity.sso.saml.SAMLSSOService.authenticate(SAMLSSOService.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_6(/sso//samlsso.jag:100)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:74)
+	at org.jaggeryjs.rhino.sso.c2._c_anonymous_1(/sso//samlsso.jag:131)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.jaggeryjs.rhino.sso.c2._c_script_0(/sso//samlsso.jag:22)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.sso.c2.call(/sso//samlsso.jag)
+	at org.jaggeryjs.rhino.sso.c2.exec(/sso//samlsso.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:577)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:280)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:432)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doPost(JaggeryServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:177)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:161)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+TID: [0] [] [2014-09-19 17:34:05,162]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:05,162]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:05,166]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,374]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,374]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,379]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,379]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,431]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,437]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDashSite2] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,441]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,445]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TestDash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,450]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,456]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ceo-dash] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,460]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/markmail] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,463]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ws-chat] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,466]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/climate] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,471]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/portal] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [] [2014-09-19 17:34:07,471]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,471]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,478]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [] [2014-09-19 17:34:07,479]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 User Engagement Server... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:07,479]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 17:34:07,479]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [] [2014-09-19 17:34:07,480]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:07,513]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:07,519]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [] [2014-09-19 17:34:07,700]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [] [2014-09-19 17:34:07,700]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}

@@ -1,0 +1,45 @@
+<%
+function getChartData() {
+	var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+	 
+	var dbHandler = require('/rdbms-handler.js');
+
+	var today = new Date();
+	var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+	//var query = "select groupName , SUM(mailcount) as mail from GroupMailCount where  DATEDIFF(\''+date+'\',DateCurrent) <=7 group by groupName  order by mail desc limit 5";
+	//var queryData = {"SQL Statement" : query};
+	var queryData = JSON.parse('{"SQL Statement" : "select groupName , SUM(mailcount) as mail from GroupMailCount where  DATEDIFF(\''+date+'\',DateCurrent) <=7 group by groupName  order by mail desc limit 5"}');
+		
+	var queryDataTotal = JSON.parse('{"SQL Statement" : "select SUM(mail) as mailSum from(select groupName , SUM(mailcount) as mail from  GroupMailCount where  DATEDIFF(\''+date+'\',DateCurrent) <=7   group by groupName  order by mail desc) t"}');
+	var queryDatafirstFive = JSON.parse('{"SQL Statement" : "select SUM(mail) as mailSum from(select groupName , SUM(mailcount) as mail from  GroupMailCount where  DATEDIFF(\''+date+'\',DateCurrent) <=7   group by groupName  order by mail desc limit 5) t"}');
+
+	var dbResultDataSumTotal = dbHandler.getData(connectionData,queryDataTotal);
+	var dbResultDataSumfirstFive = dbHandler.getData(connectionData,queryDatafirstFive);
+	//  print(dbResultDataSumTotal);
+	var sumOther = dbResultDataSumTotal[0]["mailSum"] - dbResultDataSumfirstFive[0]["mailSum"] ;
+	//	print("t - " +dbResultDataSumTotal[0]["d"] + "c - "+ dbResultDataSumfirstFive[0]["d"] +" total - "+ sumOther);
+	var dataColumns = JSON.parse('["Data"]');
+	var timeSeries = JSON.parse('false');
+	var dataLabels = JSON.parse('{"Data Label" : "Data"}');
+	var dbResult = dbHandler.getData(connectionData,queryData);
+	 
+
+	var strmap ="";
+	for (var i = 0; i <dbResult.length; i++) {
+		if(i!=0){
+			strmap = strmap +',';
+		}
+		strmap = strmap +'{"Series Label" :"'+dbResult[i]["groupName"]+'", "Data" : "mailcount"}';
+		 
+	}
+	strmap = strmap +',{"Series Label" :"other", "Data" : "total"}';
+	var mapping = JSON.parse('['+strmap+']');
+
+	var dataProcessor = require('/pie-chart.js');
+	var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,sumOther);
+	 
+	return processedData;
+}
+
+print(getChartData());
+%>

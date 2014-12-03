@@ -1,0 +1,23 @@
+<%
+function getChartData() {
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   var today = new Date();
+      var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+      
+   var queryData = JSON.parse('{"SQL Statement" : "select subject  from EmailMainTable where labels =\'vacation\'"}');
+   var dataColumns = JSON.parse('["X-Axis", "Y-Axis"]');
+   var mapping = JSON.parse('[{"Series Label" : "", "X-Axis" : "typelabels", "Y-Axis" : "mailcount"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"X-Axis Label" : "Types", "Y-Axis Label" : "Count"}');
+   
+   var dbHandler = require('/rdbms-handler.js');
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/default-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

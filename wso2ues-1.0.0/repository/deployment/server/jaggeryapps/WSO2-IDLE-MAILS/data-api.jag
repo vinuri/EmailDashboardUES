@@ -1,0 +1,38 @@
+<%
+function getChartData() {
+	
+	var labelNumber =0;
+	var postLabelAll =0;
+		if(	request.getMethod() =="POST"){
+			 labelNumber =request.getContent();
+			 var postLabelAll =labelNumber;
+		}
+
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   var querylables = JSON.parse('{"SQL Statement" : "SELECT DISTINCT labels FROM EmailMainTable"}');
+   
+   var dbHandler = require('/rdbms-handler.js');
+   var dbLabelsResult = dbHandler.getData(connectionData,querylables);
+   
+   //current date
+   var today = new Date();
+   //format the date
+   var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+  if (postLabelAll==0) {
+  		var queryData = JSON.parse('{"SQL Statement" : "select sum(emailcount) as emailcount,sender,subject,DATEDIFF((\''+date+'\'),FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\')) as idledays,FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\') as timestamp  from EmailMainTable where DATEDIFF(\''+date+'\',FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\')) <=7  AND subject NOT LIKE \'Re:%\' group by threadID having emailcount=1 limit 5"}');
+  	   
+  }else{
+   		var queryData = JSON.parse('{"SQL Statement" : "select sum(emailcount) as emailcount,sender,subject,DATEDIFF((\''+date+'\'),FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\')) as idledays,FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\') as timestamp  from EmailMainTable where labels like \''+dbLabelsResult[labelNumber-1]["labels"] +'\' AND DATEDIFF(\''+date+'\',FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\')) <=7  AND subject NOT LIKE \'Re:%\' group by threadID having emailcount=1 limit 5"}');
+  }
+   var timeSeries = JSON.parse('false');
+   
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/table-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,timeSeries,dbLabelsResult); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

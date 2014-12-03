@@ -1,0 +1,21 @@
+<%
+function getChartData() {
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   var queryData = JSON.parse('{"SQL Statement" : "select count(*) , DAYNAME(FROM_UNIXTIME(timestamp/1000,\'%Y-%m-%d\')) as day, SUM(subject LIKE \'%ooo%\') as OOO,SUM(subject LIKE \'%wfh%\') as WFH, SUM(subject LIKE \'%half%\' AND (subject like \'%morning%\' )) as MHD, SUM(subject LIKE \'%half%\' AND (subject NOT  like \'%morning%\' )) as AHD, SUM((subject LIKE \'%leave%\') AND  (subject NOT LIKE \'%half%\') AND  (subject NOT LIKE \'%ooo%\') ) as FDL from EmailMainTable where labels =\'vacation\' group by day order by timestamp "}');
+
+   var dataColumns = JSON.parse('["X-Axis", "Y-Axis"]');
+   var mapping = JSON.parse('[{"Series Label" : "Full day Leave", "X-Axis" : "day", "Y-Axis" : "FDL"}, {"Series Label" : "HD - Morning", "X-Axis" : "day", "Y-Axis" : "MHD"}, {"Series Label" : "HD -Afternoon", "X-Axis" : "day", "Y-Axis" : "AHD"}, {"Series Label" : "OOO", "X-Axis" : "day", "Y-Axis" : "OOO"}, {"Series Label" : "WAH", "X-Axis" : "day", "Y-Axis" : "WFH"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"X-Axis Label" : "Days", "Y-Axis Label" : "Vaction Type"}');
+   
+   var dbHandler = require('/rdbms-handler.js');
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+	var dataProcessor = require('/default-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

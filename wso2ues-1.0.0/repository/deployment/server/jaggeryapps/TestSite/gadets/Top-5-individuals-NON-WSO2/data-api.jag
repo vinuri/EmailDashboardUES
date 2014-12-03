@@ -1,0 +1,24 @@
+<%
+function getChartData() {
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+
+   var today = new Date();
+   var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+     
+   var queryData = JSON.parse('{"SQL Statement" : "select SUM(mailcount) as email ,sender  from IndividualMailCount where sender  NOT  LIKE \'%@wso2%\'  AND DATEDIFF(\''+date+'\',DateCurrent) <=7 group by sender order by email   desc limit 5"}');
+   var dataColumns = JSON.parse('["Y-Axis", "X-Axis"]');
+   var mapping = JSON.parse('[{"Series Label" : "", "Y-Axis" : "sender", "X-Axis" : "email"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"Y-Axis Label" : "Individuals", "X-Axis Label" : "No. Mails"}');
+   
+   var dbHandler = require('/rdbms-handler.js');
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/horizontal-bar-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

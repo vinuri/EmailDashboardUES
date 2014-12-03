@@ -1,0 +1,20 @@
+<%
+function getChartData() {
+   var connectionData = JSON.parse('{"Connection" : "EMAILDB_MYSQL_DB", "undefined" : ""}');
+   var queryData = JSON.parse('{"SQL Statement" : "select * from EmailMainTable order by sender"}');
+   var dataColumns = JSON.parse('["X-Axis", "Y-Axis"]');
+   var mapping = JSON.parse('[{"Series Label" : "", "X-Axis" : "sender", "Y-Axis" : "emailcount"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"X-Axis Label" : "", "Y-Axis Label" : ""}');
+   
+   var dbHandler = require('/gadgets/Vacation_Group_mails/modules/db-handlers/rdbms-handler.js');
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/gadgets/Vacation_Group_mails/modules/flot-charts/default-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

@@ -1,0 +1,52 @@
+<%
+function getChartData() {
+
+	var labelNumber =0;
+	var postLabelAll =0;
+	if(	request.getMethod() =="POST"){
+		 labelNumber =request.getContent();
+		 var postLabelAll =labelNumber;
+	}
+	
+  
+   	var querylables = JSON.parse('{"SQL Statement" : "SELECT DISTINCT labels FROM EmailMainTable "}');
+	var dataProcessor = require('/pie-chart.js');
+
+   	var today = new Date();
+   	var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+	var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+	var dbHandler = require('/rdbms-handler.js');
+   	var dbLabelsResult = dbHandler.getData(connectionData,querylables);
+   
+	if (postLabelAll==0) {
+   		var queryData = JSON.parse('{"SQL Statement" : "select sender, mailcount from IndividualMailCount where DATEDIFF(\''+date+'\',DateCurrent) <=7 order by mailcount desc limit 5"}');
+	 }else {
+   		var queryData = JSON.parse('{"SQL Statement" : "select sender, mailcount from IndividualMailCount where groupName like \''+dbLabelsResult[labelNumber]["labels"] +'\' AND DATEDIFF(\''+date+'\',DateCurrent) <=7 order by mailcount desc limit 5"}');
+   	}
+	var dataColumns = JSON.parse('["Data"]');
+             var dataLabels = JSON.parse('{"Data Label" : "labels"}');
+             var timeSeries = JSON.parse('false');
+             
+             var dbResult = dbHandler.getData(connectionData,queryData);
+   var strmap ="";
+       for (var i = 0; i <	dbResult.length; i++) {  
+       	if(i!=0){
+     	 strmap = strmap +',';
+       	}
+       
+       	strmap = strmap +'{"Series Label" :"'+dbResult[i]["sender"]+'", "Data" : "mailcount"}';
+       	
+       }
+   
+ var mapping = JSON.parse('['+strmap+']');
+ //      var mapping = JSON.parse('[{"Series Label" : "club", "Data" : "emailcount"}, {"Series Label" : "dev", "Data" : "emailcount"}]');
+              
+  
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,dbLabelsResult); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>
+

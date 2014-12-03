@@ -1,0 +1,20 @@
+<%
+function getChartData() {
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   var queryData = JSON.parse('{"SQL Statement" : "select * from Groups order by emailcount"}');
+   var dataColumns = JSON.parse('["labels"]');
+   var mapping = JSON.parse('[{"Series Label" : "vv", "Data" : "emailcount"}, {"Series Label" : "Vinu", "Data" : "emailcount"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"Data Label" : "labels"}');
+   
+   var dbHandler = require('/rdbms-handler.js');
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/pie-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

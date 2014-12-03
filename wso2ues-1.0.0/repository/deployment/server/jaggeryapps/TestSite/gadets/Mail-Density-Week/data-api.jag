@@ -1,0 +1,49 @@
+<%
+function getChartData() {
+   var dataType ="week";
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+
+   var querylables = JSON.parse('{"SQL Statement" : "SELECT DISTINCT labels FROM EmailMainTable "}');
+   var dbHandler = require('/rdbms-handler.js');
+   var dbLabelsResult = dbHandler.getData(connectionData,querylables);
+   
+   
+	//getting the selected label option
+   var labelNumber =0;
+   	
+   	if(	request.getMethod() =="POST"){
+  	 var dataContent=JSON.parse(request.getContent());
+  	 labelNumber= dataContent.data;
+  	 dataType= dataContent.xdata; 
+   	}
+   
+   //Getting the current Date
+   var today = new Date();
+   var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+   
+   if(dataType== "week"){
+ 		var queryData = JSON.parse('{"SQL Statement" : "select groupName , SUM(mailcount) as mail,  DAYNAME(DateCurrent) as we from GroupMailCount where DATEDIFF(\''+date+'\',DateCurrent) <=7 AND groupName like \''+ dbLabelsResult[labelNumber]["labels"]  +'\' group by groupName, we  order by DateCurrent "}');
+   }
+	else{
+		var queryData = JSON.parse('{"SQL Statement" : "select groupName , SUM(mailcount) as mail,  MONTHNAME(DateCurrent) as we from GroupMailCount where TIMESTAMPDIFF(month, DateCurrent,\''+date+'\') <12  AND groupName like \''+ dbLabelsResult[labelNumber]["labels"] +'\' group by groupName, we  order by DateCurrent "}');
+		  
+	}
+
+     
+   var dataColumns = JSON.parse('["X-Axis", "Y-Axis"]');
+   var mapping = JSON.parse('[{"Series Label" : "", "X-Axis" : "we", "Y-Axis" : "mail"}]');
+   var timeSeries = JSON.parse('false');
+   var dataLabels = JSON.parse('{"X-Axis Label" : "Day", "Y-Axis Label" : "No. Mails"}');
+   
+
+      
+   var dbResult = dbHandler.getData(connectionData,queryData);
+   
+   var dataProcessor = require('/default-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,dbLabelsResult); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>

@@ -1,0 +1,45 @@
+<%
+function getChartData() {
+
+	var labelNumber =0;
+	
+	if(	request.getMethod() =="POST"){
+		 labelNumber =request.getContent();
+	}
+	
+   var connectionData = JSON.parse('{"Connection" : "myDatabase", "undefined" : ""}');
+   var querylables = JSON.parse('{"SQL Statement" : "SELECT DISTINCT labels FROM EmailMainTable "}');
+  
+   var dbHandler = require('/gadgets/Top_5/modules/db-handlers/rdbms-handler.js');
+   var dbLabelsResult = dbHandler.getData(connectionData,querylables);
+   var today = new Date();
+   var date= today.getFullYear()+"-"+ (today.getMonth()+1) +"-"+today.getDate();
+
+   var queryData = JSON.parse('{"SQL Statement" : "select sender, mailcount from IndividualMailCount where groupName like \''+dbLabelsResult[labelNumber]["labels"] +'\' AND DATEDIFF(\''+date+'\',DateCurrent) <=7 order by mailcount desc limit 5"}');
+             var dataColumns = JSON.parse('["Data"]');
+             var dataLabels = JSON.parse('{"Data Label" : "labels"}');
+             var timeSeries = JSON.parse('false');
+             
+             var dbResult = dbHandler.getData(connectionData,queryData);
+   var strmap ="";
+       for (var i = 0; i <	dbResult.length; i++) {  
+       	if(i!=0){
+     	 strmap = strmap +',';
+       	}
+       
+       	strmap = strmap +'{"Series Label" :"'+dbResult[i]["sender"]+'", "Data" : "mailcount"}';
+       	
+       }
+   
+ var mapping = JSON.parse('['+strmap+']');
+ //      var mapping = JSON.parse('[{"Series Label" : "club", "Data" : "emailcount"}, {"Series Label" : "dev", "Data" : "emailcount"}]');
+              
+   var dataProcessor = require('/gadgets/Top_5/modules/flot-charts/pie-chart.js'); 
+   var processedData = dataProcessor.processData(dbResult,mapping,dataColumns,dataLabels,timeSeries,dbLabelsResult); 
+   
+ return processedData;
+}
+  
+print(getChartData());
+%>
+
